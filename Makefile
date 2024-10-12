@@ -1,0 +1,2 @@
+typing:
+	pyright src
